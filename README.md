@@ -4,4 +4,6 @@ Hi All
 Zoey here
 This is Pinky.
 
-Zoey in week 6.
+# Zoey’s Section
+
+This is my contribution to the Quarto project.
